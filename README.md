@@ -1,10 +1,4 @@
-# Тестовое задание
-
-Кондрашов Даниил Андреевич
-
-email: jollkill34@gmail.com
-
-## Задание
+# api_messages
 
 Структура проекта:
   - api_service_messages (api сервис сообщений)
